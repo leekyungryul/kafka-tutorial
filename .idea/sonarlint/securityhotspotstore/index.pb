@@ -13,3 +13,5 @@ l
 <kafka-basics/src/main/java/com/demos/kafka/ProducerDemo.java,3/a/3ae31d6527e16be56670a3202c3e07eaa61d742f
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+=
+kafka-command,2/7/2703bf2752ba588d8e0a54b5c19d63f2ff17ff98
